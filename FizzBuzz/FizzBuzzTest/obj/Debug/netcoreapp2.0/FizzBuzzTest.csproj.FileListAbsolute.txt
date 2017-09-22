@@ -1,0 +1,16 @@
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzzTest.deps.json
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzzTest.runtimeconfig.json
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzzTest.runtimeconfig.dev.json
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzzTest.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzzTest.pdb
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzz.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/bin/Debug/netcoreapp2.0/FizzBuzz.pdb
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.csprojResolveAssemblyReference.cache
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.csproj.CoreCompileInputs.cache
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.AssemblyInfoInputs.cache
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.AssemblyInfo.cs
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.dll
+/Users/brajan/Projects/tddWorkshop-Dotnet/FizzBuzz/FizzBuzzTest/obj/Debug/netcoreapp2.0/FizzBuzzTest.pdb
