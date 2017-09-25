@@ -9,7 +9,7 @@ namespace Katas
         }
 
         public string determineWinner(string gesture1, string gesture2){
-            return "rock beats scissors";
+            return null;
         }
     }
 }

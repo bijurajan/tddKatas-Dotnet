@@ -5,7 +5,7 @@ namespace Katas
 {
     public class RockPaperScissorsTest
     {
-        [Fact]
+        [Fact(Skip = "Ignore test until you're ready to run the tests")]
         public void rockShouldCrushScissors()
         {
             RockPaperScissors game = new RockPaperScissors();
