@@ -9,7 +9,7 @@ The good news is that most of the codebase is pretty readable and well-tested. T
 ## Running the API
 
 ```sh
-./gradlew run
+dotnet run
 ```
 
 ## API Endpoints
