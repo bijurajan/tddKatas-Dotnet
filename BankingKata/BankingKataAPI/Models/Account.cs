@@ -1,5 +1,5 @@
 ﻿using System;
-namespace BankingKataAPI.Models
+namespace Katas
 {
     public class Account : Identifiable
     {
